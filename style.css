@@ -1,0 +1,26 @@
+p {
+    color: coral;
+}
+
+p, li{
+    color: fuchsia;
+    font-size: 16px;
+}
+
+.special {
+    color: deepskyblue
+}
+
+a:visited{
+    color: brown;
+}
+body{
+    background: black;
+}
+h2{
+    color: aliceblue;   
+}
+
+a {
+    text-decoration:  none;
+}
