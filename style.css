@@ -1,5 +1,7 @@
 p {
     color: coral;
+    font-family: Arial, cursive;
+    text-align: center;
 }
 
 p, li{
@@ -19,8 +21,16 @@ body{
 }
 h2{
     color: aliceblue;   
+    background-color: rgba(255,0,255,0.5);
+    text-align: center;
 }
 
 a {
     text-decoration:  none;
+}
+
+a:hover
+{
+    color:gold;
+    text-decoration: underline;
 }
